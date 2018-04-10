@@ -1,0 +1,2 @@
+BUILDDIR = src
+VPATH = src
